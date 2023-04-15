@@ -1,2 +1,2 @@
-# AI-project
+# python-project
 volume controlling with hand detection
